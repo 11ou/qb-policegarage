@@ -7,8 +7,7 @@ For all support questions, ask in our [Discord](https://www.discord.gg/lk) suppo
 - [QBCore](https://github.com/qbcore-framework/qb-core)
 - [qb-target](https://github.com/qbcore-framework/qb-target)
 - [qb-menu](https://github.com/qbcore-framework/qb-menu)
-- [qb-menu](https://github.com/InZidiuZ/LegacyFuel)
-
+- [LegacyFuel](https://github.com/InZidiuZ/LegacyFuel)
 
 
 # Installation
